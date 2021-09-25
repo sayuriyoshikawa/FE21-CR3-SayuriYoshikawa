@@ -1,0 +1,54 @@
+* {
+    font-family: serif;
+}
+
+header {
+    text-align: center;
+    height: 12vw;
+    background-color: #470031;
+    color: white;
+}
+
+header h1 {
+    padding-top: 1.7vw;
+    font-size: 3vw;
+}
+li {
+    height: 2vw;
+}
+
+li a {
+    font-size: 1.5vw;
+}
+
+.container {
+    margin: 10vw auto;
+}
+
+.container h1, h4 {
+    text-align: center;
+}
+
+.container h4 {
+    color :#971549;
+    padding-top: 1vw;
+}
+
+.card {
+    margin-top: 5vw;
+}
+
+
+
+
+.blockquote-footer {
+    background-color: white !important;
+}
+
+footer {
+    text-align: center;
+    margin-top: 7vw;
+    height: 10vw;
+    background-color: #470031;
+    color: white;
+}
